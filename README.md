@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis Case Study
+# E-Commerce Sales Analysis
 
 ## Project Overview
 This project is a comprehensive e-commerce sales analysis case study aimed at understanding key sales and profit trends using Python. The analysis is performed on an e-commerce dataset to gain insights into business performance and customer behavior.
